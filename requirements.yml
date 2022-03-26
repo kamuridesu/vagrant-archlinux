@@ -5,4 +5,4 @@ collections:
 roles:
   - src: https://github.com/kamuridesu/ansible-archlinux-initial-config.git
     scm: git
-    name: ansible-role-archlinux-initial-provision/tasks
+    name: ansible-role-archlinux-initial-provision
