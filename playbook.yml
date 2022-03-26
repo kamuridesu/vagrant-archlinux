@@ -1,0 +1,5 @@
+- name: Archlinux Provision
+  hosts: all
+  become: true
+  roles:
+    - ansible-role-archlinux-initial-provision
